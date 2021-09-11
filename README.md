@@ -1,14 +1,18 @@
 # Welcome
 
- 👋 Hi, I’m @SamR-Coder a programmer since 2018, my native language is portuguese but I have intermdiate level at english.⭐
+ 👋 Hi, I’m @SamR-Coder, my native language is portuguese but I have intermdiate level at english.⭐
  
-  📚I have intermediate level at front-end web development (html,css,js),intermediate level at python, basic level at Sql in general.
+ ## Skills
+ -Front-end web development (html,css,js);
+ -Python development;
+ -Basic level at Sql in general.
 
- 👀 I’m interested in Linux, it's been 5 years since I started using Linux.
- 
- ✨ I’m currently learning python, mobile development with Flutter and some front-end frameworks
+## My Interests
+ 👀 I’m interested in Linux, it's been 5 years since I started using it.
+ ✨ I’m currently deepening my learning at python, mobile development with Flutter and some front-end frameworks as Electron, React
 
-📱My social media: https://www.instagram.com/samuelrafael_/
+##Social
+My social media: https://www.instagram.com/samuelrafael_/
 
 #### Let's Code💻
 <!---

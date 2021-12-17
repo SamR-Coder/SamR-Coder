@@ -1,16 +1,16 @@
 # Welcome
 
- 👋 Hi, I’m @SamR-Coder, my native language is portuguese but I have intermdiate level at english.⭐
+ 👋 Hi, I’m @SamR-Coder, my native language is portuguese but I speak english too.⭐
  
  ## Skills
  -Front-end web development (html,css,js);
- 
+ -Basic Back-end developer;
  -Python development;
  
  -Basic level at Sql in general.
 
 ## My Interests
- 👀 I’m interested in Linux, it's been 5 years since I started using it.
+ 👀 I’m interested in Linux.
  
  ✨ I’m currently deepening my learning at python, mobile development with Flutter and some front-end frameworks as Electron, React
 
